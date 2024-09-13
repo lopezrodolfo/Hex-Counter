@@ -1,0 +1,12 @@
+#.gitignore
+
+*.asc
+*.bin
+*.json
+*.log
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
